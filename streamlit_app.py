@@ -45,8 +45,6 @@ try:
 except URLError as e:
   streamlit.error()
 
-#streamlit.write('The user entered ', fruit_choice)
-
 #Agregue un comando DETENER para centrar nuestra atención
 streamlit.stop()
 
