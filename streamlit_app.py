@@ -66,7 +66,7 @@ if streamlit.button('Get Fruit Load List'):
 
 
 #New Section to display fruityvice respnse
-streamlit.header("Add Fruit!")
+streamlit.header("Add Fruit!")xx
 
 #agregar fruta
 def insert_row_snowflake(new_fruit):
