@@ -46,7 +46,7 @@ except URLError as e:
   streamlit.error()
 
 #Agregue un comando DETENER para centrar nuestra atención
-streamlit.stop()
+#streamlit.stop()
 
 streamlit.header("The fruit load list contains:")
 #Snowflake-related functions
